@@ -22,6 +22,8 @@ We have used four different model techniques in this project and we compare the 
 ## Comparing Accuracies
 
 After sucussfully training the model with four different algorithms we compare the accuracies for all the four different techniques and plot the bar graph by comparing the accuracies.and we got more acccuracy by using the CNN (Convolutional Neural Network) i.e 98%.
+![Screenshot 2024-11-07 134914](https://github.com/user-attachments/assets/9146fbc5-bf4e-43de-8844-f49814a019ea)
+
 
 ## Objectives
 - **Pose Recognition:**  We endeavor to build a model capable of accurately recognizing and categorizing various yoga poses depicted in images.
