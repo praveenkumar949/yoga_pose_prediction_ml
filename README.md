@@ -30,11 +30,7 @@ After sucussfully training the model with four different algorithms we compare t
 - **Dataset Exploration:** We will explore a comprehensive dataset containing images of different yoga poses, providing insights into the diversity and distribution of samples.
 - **Model Development:** Utilizing state-of-the-art machine learning techniques, we will develop and train models to classify yoga poses based on image inputs.
   
-
-
-
-
-
+**Code Link:** https://colab.research.google.com/drive/1k1yPs6KpKmuDb-Pjr4ZBUGFlnpGEDvBy?usp=sharing
 
 
 
